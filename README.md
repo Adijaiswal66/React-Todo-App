@@ -26,7 +26,7 @@ To set up the React Todo App locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/React-Todo-App.git
+git clone https://github.com/Adijaiswal66/React-Todo-App.git
 
 ```
 2. Navigate to the project directory:
